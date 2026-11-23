@@ -2,7 +2,6 @@
 
 [![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 [![rank](https://make.fun/badge/best-heist-game-20261122-0559/7SteveJohn/heavy-is-the-haul/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
-[![reward](https://make.fun/badge/best-heist-game-20261122-0559/7SteveJohn/heavy-is-the-haul/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 Steal a giant golden heart from a floating vault. The floor tilts with the
 weight: dragging the heart slides wheeled display cases into cover — and can
